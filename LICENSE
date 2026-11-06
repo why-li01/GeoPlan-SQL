@@ -1,0 +1,64 @@
+GeoPlan-SQL Research Evaluation License
+Version 1.0
+
+Copyright (c) 2026 GeoPlan-SQL Authors. All rights reserved.
+
+This license governs use of the software, documentation, and any other
+materials in this repository (the "Work"). By viewing, copying, or using the
+Work, you accept these terms.
+
+1. Limited permission for academic evaluation
+
+   Subject to the conditions in Section 2, you are granted a limited,
+   non-exclusive, non-transferable, revocable permission to:
+   (a) view the Work; and
+   (b) run the Work locally, solely for non-commercial academic evaluation,
+       peer review, or personal study.
+
+   Incidental copies that are technically necessary to view or run the Work
+   (for example, in memory or in a local build cache) are permitted.
+
+2. Conditions
+
+   You must not:
+   (a) copy, publish, distribute, sublicense, sell, rent, or otherwise make
+       the Work or any part of it available to any third party;
+   (b) modify, translate, adapt, or create derivative works of the Work;
+   (c) use the Work, in whole or in part, for any commercial purpose;
+   (d) incorporate the Work, in whole or in part, into another software
+       project, product, service, or publication, whether open source or
+       proprietary;
+   (e) remove, obscure, or alter this license or any copyright notice.
+
+3. No rights in methods or ideas
+
+   This license grants rights in the Work as a technical work only. It grants
+   no right, license, or immunity in respect of any algorithm, method, model,
+   dataset, technique, or idea disclosed by the Work. No patent, trademark, or
+   other intellectual-property right is granted.
+
+4. Citation
+
+   Any publication that discusses, evaluates, or builds upon the Work must
+   cite the GeoPlan-SQL paper.
+
+5. Termination
+
+   This license terminates automatically, without notice, if you breach any
+   term. On termination you must stop using the Work and delete all copies in
+   your possession or control.
+
+6. No warranty
+
+   THE WORK IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+   IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+   FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT. IN NO EVENT SHALL
+   THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER
+   LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING
+   FROM, OUT OF, OR IN CONNECTION WITH THE WORK OR THE USE OR OTHER DEALINGS
+   IN THE WORK.
+
+7. Reservation
+
+   All rights not expressly granted are reserved. The copyright holder may
+   release later versions of the Work under different terms.

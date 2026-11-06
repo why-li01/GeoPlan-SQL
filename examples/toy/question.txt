@@ -1,0 +1,1 @@
+Which city with region code starting with '01' has the largest area, and how many universities are located in that city?

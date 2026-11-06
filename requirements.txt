@@ -1,0 +1,17 @@
+# Core (comparison / evaluation helpers)
+numpy>=1.24
+scipy>=1.10
+
+# Optional: PostGIS connectivity for end-to-end evaluation
+# psycopg2-binary>=2.9
+
+# Optional: training shell (install when you have your own SFT data)
+# torch>=2.1
+# transformers>=4.44
+# datasets>=2.19
+# accelerate>=0.33
+# peft>=0.12
+# trl>=0.9
+# bitsandbytes>=0.43
+# loguru>=0.7
+# safetensors>=0.4

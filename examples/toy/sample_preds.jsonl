@@ -1,0 +1,2 @@
+{"id": "toy-1", "gold_rows": [["Riverdale", 2]], "pred_rows": [["Riverdale", 2]]}
+{"id": "toy-2", "gold_rows": [["Riverdale", 2]], "pred_rows": [["Lakeside", 1]]}

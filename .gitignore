@@ -1,0 +1,56 @@
+# Secrets and local environment
+.env
+.env.*
+*.pem
+*.key
+credentials.json
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.eggs/
+dist/
+build/
+.venv/
+venv/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# IDE / OS
+.idea/
+.vscode/
+*.swp
+.DS_Store
+
+# Local training artifacts (not part of this preview)
+artifacts/
+trained_models/
+*.safetensors
+*.bin
+*.pt
+*.ckpt
+adapter_model.*
+adapter_config.json
+
+# Datasets and dumps (not part of this preview)
+data/
+*.sql.dump
+*.dump
+*.backup
+*.jsonl
+# The toy evaluation demo is part of this preview.
+!examples/toy/sample_preds.jsonl
+**/sft_*.json
+**/generated/
+
+# Logs and experiment traces
+logs/
+*.log
+nohup.out
+
+# Local model caches
+model_cache/
+.cache/
